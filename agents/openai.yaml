@@ -1,0 +1,7 @@
+interface:
+  display_name: "Serper + DeepSeek Search"
+  short_description: "Source-backed Internet search with Serper"
+  default_prompt: "Use $serp-deepseek-search to find and verify current information on the public Internet."
+policy:
+  allow_implicit_invocation: true
+
