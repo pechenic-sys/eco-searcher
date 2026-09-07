@@ -1,4 +1,6 @@
-# Serper + DeepSeek Search Skill
+# eco-searcher
+
+## Serper + DeepSeek Search Skill
 
 Codex-навык для фразы «Найди в Интернет»: Serper получает актуальные результаты Google, помощник очищает и сокращает публичные страницы, а DeepSeek превращает их в компактный evidence packet с цитатами, ссылками и ограничениями.
 
@@ -35,4 +37,3 @@ copy config.example.toml config.toml
 ## Лицензия
 
 MIT. API-ключи, лимиты и условия Serper/DeepSeek регулируются самими сервисами.
-
